@@ -14,5 +14,5 @@ Code:
   main3.py(compare different choices of d in SHE,BLH,OLH with fixing epsilon)   
   main4.py(compare different choices of epsilon in DE,SUE,OUE with fixing epsilon)   
   main5.py(compare different choices of epsilon in SHE,BLH,OLHE with fixing epsilon)  
-  
+  Test results in Freq_estimation_test.pdf
 
